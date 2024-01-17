@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/anne.jpeg";
+import image from "../images/Anne.jpeg";
 
 const imageAltText = "It is me. I traveled to Qingdao in China.";
 
